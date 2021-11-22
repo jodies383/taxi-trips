@@ -82,7 +82,7 @@ describe('Taxi Trips', function () {
    
     it('find the total amount income for each of the regions', async function () {
         const taxiTrips = TaxiTrips(pool);
-        assert.deepStrictEqual({sum: '317.00'},{sum: '317.00'},{sum: '317.00'}, await taxiTrips.findTotalIncomeByRegion());
+        assert.deepStrictEqual({},{},{}, await taxiTrips.findTotalIncomeByRegion());
     });
 
 
