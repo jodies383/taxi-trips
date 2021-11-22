@@ -97,3 +97,4 @@ Fork and clone this repository.
 * Ask mentors if you need clarification - email them `mentors@projectcodex.co`.
 * Enjoy it!
 
+[![Build Status](https://app.travis-ci.com/jodies383/taxi-trips.svg?branch=main)](https://app.travis-ci.com/jodies383/taxi-trips)
